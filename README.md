@@ -8,9 +8,9 @@ Aspiring Data Scientist, with a focus on turning ambiguous business questions in
 - **Experimentation** — A/B testing, hypothesis testing, power analysis, and ROI quantification
 
 ## 🛠️ Skills
-**Languages:** Python, SQL
-**Libraries:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn
-**LLM/RAG:** LangChain, FAISS, Google Gemini (embeddings + chat), Retrieval-Augmented Generation
-**Tools/Platforms:** AWS, Streamlit, PyCharm, Jupyter Notebook
-**Core:** Statistical Modeling, Cohort Analysis, Experimentation Design, Data Visualization
+**Languages:** Python, SQL | 
+**Libraries:** NumPy, Pandas, Matplotlib, Seaborn, scikit-learn |
+**LLM/RAG:** LangChain, FAISS, Google Gemini (embeddings + chat), Retrieval-Augmented Generation |
+**Tools/Platforms:** AWS, Streamlit, PyCharm, Jupyter Notebook |
+**Core:** Statistical Modeling, Machine Learning, Experimentation Design, Data Visualization
 
