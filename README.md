@@ -1,4 +1,4 @@
-# Hi, I'm Tanya 👋
+# Hi, I'm Tanya 🙂
 
 Aspiring Data Scientist, with a focus on turning ambiguous business questions into measurable, decision-ready insights — not just building models, but proving they move the needle.
 
